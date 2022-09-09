@@ -1,0 +1,12 @@
+digraph G
+{
+     node[shape  =   circle]
+     node[style  =   filled]
+     node[fillcolor  = blue]
+     node[color  =   blue]
+     edge[color  =   red]
+4->3
+4->5->7
+
+
+}

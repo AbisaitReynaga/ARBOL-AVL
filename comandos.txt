@@ -1,0 +1,2 @@
+dot.exe -Tpng arbolBinario.dot -o imagenArbolBinario.png
+dot.exe -Tpng arbolBinarioAVL.dot -o imagenArbolBinarioAVL.png
